@@ -1,0 +1,8 @@
+title: Guilty Pixel Industries
+description: Design, Engineering, Education, and Interactive Entertainment
+google_analytics: UA-65586724-1
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
